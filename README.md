@@ -2,11 +2,6 @@
 
 A fast-paced, terminal-based treasure hunting game written in **C**. Explore a hidden 5×5 grid, collect treasures, dodge moving traps, and beat the 60-second clock.
 
-**Team:** `<| Syntax Error |>`
-**Creators:** Mim Nur, Nafisa Tasfia, Oishee Chowdhury, Richi Hasnin, Prashed Barua
-
----
-
 ## 🎮 Gameplay
 
 You start at the top-left corner of a grid where every cell is hidden (`?`). Move around to reveal what each cell holds. Find **all 5 treasures** before you run out of moves, health, or time.
@@ -114,8 +109,4 @@ treasurehunt.exe      # Windows
 - Add difficulty levels (larger grid, fewer moves)
 - Add colored terminal output
 
----
 
-## 📄 License
-
-This project was created for educational purposes.
